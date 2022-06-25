@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"></code>
-<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/asp.jpg"></code>
+<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/python.webp"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/visual-code.jpg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/visual-studio.png"></code>
