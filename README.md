@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/BS-v-2.jpg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/wordpress.png"></code>
-<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/java.jpg"></code>
+<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/C.jpg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/C%2B%2B.jpg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/C%23.jpg"></code>
