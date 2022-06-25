@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/python.webp"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/VS.png"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/visual-studio.png"></code>
-<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/dj.png"></code>
+<code><img width="30" src="https://github.com/PilotM5/PilotM5/blob/main/img/dj.png"></code>
 <!-- <code><img width="40" src=""></code>
 <code><img width="40" src=""></code>
 <code><img width="40" src=""></code>
