@@ -25,12 +25,8 @@ Here are some ideas to get you started:
 
 <br/>
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
-https://github.com/PilotM5/PilotM5/blob/main/img/html.png
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/html.png"></code>
-<!-- <code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code> -->
-<!-- <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code> -->
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
-<!-- <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Sass%20logo.svg"></code> -->
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/cpp.svg"></code>
 
