@@ -81,6 +81,12 @@ Here are some ideas to get you started:
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
+  <a href="https://twitter.com/Pilot_M55?t=KwU76QjG7ZRIOksk1fpmlQ&s=09" target="_blank">
+    <code><img width="51" src="https://github.com/PilotM5/PilotM5/blob/main/img/twitter.png"/></code>
+  </a>
+  <a href="https://instagram.com/pilot_m5?igshid=YmMyMTA2M2Y=" target="_blank">
+    <code><img width="51" src="https://github.com/PilotM5/PilotM5/blob/main/img/instagram.png"/></code>
+  </a>
 </p>
 <br/>
 
