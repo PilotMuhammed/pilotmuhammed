@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/BS-v-2.png"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/BS-v-2.jpg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/wordpress.png"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/java.jpg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/C.jpg"></code>
