@@ -28,9 +28,24 @@ Here are some ideas to get you started:
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/BS.png"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/wordpress.png"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/java.jpg"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/C.jpg"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/C%2B%2B.jpg"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/C%23.jpg"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/asp.jpg"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/python.webp"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/visual-code.jpg"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/visual-studio.png"></code>
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/django.jpg"></code>
+<!-- <code><img width="40" src=""></code>
+<code><img width="40" src=""></code>
+<code><img width="40" src=""></code>
+<code><img width="40" src=""></code>
+<code><img width="40" src=""></code> -->
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/cpp.svg"></code>
-
+<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/github.png"></code>
 <br/>
 <br/>
 
