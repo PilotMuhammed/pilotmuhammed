@@ -38,17 +38,17 @@ Here are some ideas to get you started:
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/VS.png"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/visual-studio.png"></code>
 <code><img width="30" src="https://github.com/PilotM5/PilotM5/blob/main/img/dj.png"></code>
-<!-- <code><img width="40" src=""></code>
-<code><img width="40" src=""></code>
-<code><img width="40" src=""></code>
-<code><img width="40" src=""></code>
-<code><img width="40" src=""></code> -->
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/github.png"></code>
 <br/>
 <br/>
 
 #
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aljanabi00&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljanabi00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details open="">
 <summary>
