@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
