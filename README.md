@@ -78,8 +78,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/feed/" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
-  <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
-    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
+  <a href="https://youtube.com/channel/UCuM4Nt5zhhCAW_Jvge9cMKQ" target="_blank">
+    <code><img width="55" src="https://github.com/PilotM5/PilotM5/blob/main/img/youtube.png"/></code>
   </a>
   <a href="https://twitter.com/Pilot_M55?t=KwU76QjG7ZRIOksk1fpmlQ&s=09" target="_blank">
     <code><img width="51" src="https://github.com/PilotM5/PilotM5/blob/main/img/twitter.png"/></code>
