@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <code><img width="40" src="./img/React.png"></code>
 <code><img width="40" src="./img/node.png"></code>
 <code><img width="40" src="./img/mongoDB.jpg"></code>
-<code><img width="40" src="./img/logo-vertical.png"></code>
+<code><img width="40" src="./img/firebase_logo.webp"></code>
 <code><img width="40" src="./img/TypeScript.svg"></code>
 <code><img width="40" src="./img/SQLserver.png"></code>
 <code><img width="40" src="./img/MySQL.png"></code>
