@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <code><img width="30" src="https://github.com/PilotM5/PilotM5/blob/main/img/dj.png"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/github.png"></code>
+
+<code><img width="40" src="./img/node.JS.png"></code>
 <br/>
 <br/>
 
