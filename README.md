@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <code><img width="40" src="./img/React.png"></code>
 <code><img width="40" src="./img/node.JS.png"></code>
-<code><img width="40" src="./img/mongoDB.png"></code>
+<code><img width="40" src="./img/mongoDB.jpg"></code>
 <code><img width="40" src="./img/firebase.png"></code>
 <code><img width="40" src="./img/TypeScript.svg"></code>
 <code><img width="40" src="./img/SQLserver.png"></code>
