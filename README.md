@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/bs.png"></code>
-<code><img width="40" src="https://github.com/PilotM5/PilotM5/blob/main/img/wordpress.png"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"></code>
